@@ -22,12 +22,12 @@ First make sure to install XCode version 13 or later and have iPhone X or later 
 
 Clone the repository:
 ```bash
-git clone https://github.com/AshkanGoharfar/AR-online-shopping-iOS.git
+git clone https://github.com/rexift/AR-shopping-iOS.git
 ```
 
 Go to the project directory.
 ```bash
-cd AR-online-shopping-iOS
+cd AR-shopping-iOS
 ```
 
 Next, run the following command to create podfile.
